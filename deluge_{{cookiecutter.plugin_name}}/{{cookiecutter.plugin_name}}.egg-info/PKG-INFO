@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: {{cookiecutter.plugin_name}}
+Version: 0.1
+Summary: UNKNOWN
+Home-page: 
+Author: {{cookiecutter.author_name}}
+Author-email: {{cookiecutter.author_email}}
+License: GPLv3
+Platform: UNKNOWN
+
+UNKNOWN
+

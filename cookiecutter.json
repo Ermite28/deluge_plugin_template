@@ -1,0 +1,6 @@
+{
+    "plugin_name": "MyPlugin",
+    "author_name": "Your name",
+    "author_email" : "Your mail",
+    "deluge_config_path" : "/home/user/.config/deluge"
+}

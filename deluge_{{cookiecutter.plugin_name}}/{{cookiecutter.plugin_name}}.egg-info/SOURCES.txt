@@ -1,0 +1,13 @@
+setup.py
+deluge_{{cookiecutter.plugin_name}}/__init__.py
+deluge_{{cookiecutter.plugin_name}}/common.py
+deluge_{{cookiecutter.plugin_name}}/core.py
+deluge_{{cookiecutter.plugin_name}}/gtk3ui.py
+deluge_{{cookiecutter.plugin_name}}/webui.py
+deluge_{{cookiecutter.plugin_name}}/data/config.ui
+deluge_{{cookiecutter.plugin_name}}/data/{{cookiecutter.plugin_name}}.js
+{{cookiecutter.plugin_name}}.egg-info/PKG-INFO
+{{cookiecutter.plugin_name}}.egg-info/SOURCES.txt
+{{cookiecutter.plugin_name}}.egg-info/dependency_links.txt
+{{cookiecutter.plugin_name}}.egg-info/entry_points.txt
+{{cookiecutter.plugin_name}}.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+[deluge.plugin.core]
+{{cookiecutter.plugin_name}} = deluge_{{cookiecutter.plugin_name}}:CorePlugin
+
+[deluge.plugin.gtk3ui]
+{{cookiecutter.plugin_name}} = deluge_{{cookiecutter.plugin_name}}:Gtk3UIPlugin
+
+[deluge.plugin.web]
+{{cookiecutter.plugin_name}} = deluge_{{cookiecutter.plugin_name}}:WebUIPlugin
